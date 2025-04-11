@@ -14,7 +14,7 @@
 ## 🔧 Installation
 
 ```bash
-git clone https://github.com/yourusername/hufflemanager.git
+git clone https://github.com/abker0/hufflemanager.git
 cd hufflemanager
 go build -o huffleman main.go
 ```
