@@ -67,5 +67,3 @@ Compressed files are saved with a `.huff` extension. They include:
 
 Created by Adam Baker in 2025  
 GitHub: @abker0
-
-"HUFF and PUFF, and save your bytes." — huffleman
